@@ -1,0 +1,12 @@
+from Main import Mainpgm
+from Main.Sub import Subpgm
+
+Mainpgm.Mainpgm()
+Mainpgm.Maintwo()
+Subpgm.subpgm()
+Subpgm.subtwo()
+
+def mypgm():
+    print("My implimantation")
+
+mypgm()
